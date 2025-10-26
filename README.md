@@ -50,7 +50,7 @@ Using someone’s project **without following its license terms** can lead to:
 
 ### 🤝 Let’s Connect
 I’d love to connect, collaborate, and grow together!  
-📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777)
+📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | .[LeetCode](https://leetcode.com/ASHOK_777/)
 
 ---
 ### ✨ Quote
