@@ -62,6 +62,15 @@ Using someone’s project **without following its license terms** can lead to:
 - [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game)
 - [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI)
 - [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection)
+  
+---
+
+## 📝 Note
+ 
+> Some repositories are kept **private** to maintain confidentiality or because they are part of **ongoing development**.  
+> If you’re interested in learning more about these projects or wish to **discuss potential collaboration**,  
+> please feel free to reach out for additional details.
+
 ---
 
 ### 🤝 Let’s Connect
