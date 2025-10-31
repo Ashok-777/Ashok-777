@@ -33,6 +33,8 @@ To **learn continuously**, **adapt to the evolving world**, and **collaborate wi
 In every open-source journey, **licenses play a vital role** in defining how others can use, share, or modify your work.  
 A license ensures your project is used **ethically and respectfully**, maintaining both **credit and creative control**.  
 
+---
+
 #### 🔍 Why Licenses Matter:
 - 🧩 They **grant permission** to use, modify, or share your work.  
 - 🛡️ They **protect you** from misuse or uncredited usage.  
