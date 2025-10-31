@@ -36,7 +36,9 @@ A license ensures your project is used **ethically and respectfully**, maintaini
 #### 🔍 Why Licenses Matter:
 - 🧩 They **grant permission** to use, modify, or share your work.  
 - 🛡️ They **protect you** from misuse or uncredited usage.  
-- 🤝 They **encourage collaboration** by defining clear contribution rules.  
+- 🤝 They **encourage collaboration** by defining clear contribution rules.
+
+---
 
 #### ⚠️ If Someone Violates a License:
 Using someone’s project **without following its license terms** can lead to:
