@@ -48,6 +48,18 @@ Using someone’s project **without following its license terms** can lead to:
 
 ---
 
+## 🚀 Projects
+
+- [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify)
+- [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py)
+- [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn)
+- [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail)
+- [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator)
+- [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game)
+- [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI)
+- [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection)
+---
+
 ### 🤝 Let’s Connect
 I’d love to connect, collaborate, and grow together!  
 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | [LeetCode](https://leetcode.com/ASHOK_777/)
