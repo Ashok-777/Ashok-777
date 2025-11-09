@@ -107,6 +107,23 @@ If you find any of these projects helpful or inspiring, you can show support by:
 I’d love to connect, collaborate, and grow together!  
 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | [LeetCode](https://leetcode.com/ASHOK_777/)
 
+
+### 🤝 Let’s Connect
+I’d love to connect, collaborate, and grow together!  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashok-s-844a46387" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ashok-777" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/ASHOK_777/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
+  </a>
+</p>
 ---
 ### ✨ Quote
 *"The science of today is the technology of tomorrow."* – Edward Teller
