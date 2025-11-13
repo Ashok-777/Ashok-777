@@ -108,8 +108,12 @@ I’d love to connect, collaborate, and grow together!
 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | [LeetCode](https://leetcode.com/ASHOK_777/)
 
 ---
+
 ### ✨ Quote
 *"The science of today is the technology of tomorrow."* – Edward Teller
+
 ---
+
 <p align="center">© 2025 Ashok S | Crafted with ❤️ and curiosity</p>
+
 ---
