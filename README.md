@@ -110,4 +110,6 @@ I’d love to connect, collaborate, and grow together!
 ---
 ### ✨ Quote
 *"The science of today is the technology of tomorrow."* – Edward Teller
-
+---
+<p align="center">© 2025 Ashok S | Crafted with ❤️ and curiosity</p>
+---
