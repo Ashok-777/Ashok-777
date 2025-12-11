@@ -52,33 +52,23 @@ Using someone’s project **without following its license terms** can lead to:
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Synopsis
 
-- [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify)
-- [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py)
-- [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn)
-- [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail)
-- [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator)
-- [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor)  
-- [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game)
-- [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI)
-- [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection)
-- [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE.git)
+| Project | Synopsis |
+|---------|---------|
+| [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
+| [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior. |
+| [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
+| [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
+| [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
+| [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
+| [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
+| [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
+| [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
+| [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
 
 ---
 
-### Project Synopsis:
-
-- **CAPTCHA Verify** — Creative automation for CAPTCHA verification.  
-- **Customer Expense Churn** — Data-driven insights to predict customer behavior.  
-- **Demand Forecasting in Retail** — Time-series forecasting for smarter retail decisions.  
-- **Password Generator** — User-friendly and secure password creation tool.
-- **Network Performance Monitor** — Python tool for real-time network speed and ping monitoring with live visualizations.
-- **Shadow Bounce - Multi World** — Multi-level game showcasing creativity and design.  
-- **SmartVizAI** — AI-powered visualization tool for actionable insights.  
-- **SMS Spam Detection** — Practical machine learning solution for real-world problems.
-  
----
 ## 📝 Note
  
 > Some repositories are kept **private** to maintain confidentiality or because they are part of **ongoing development**.  
