@@ -63,7 +63,8 @@ Using someone’s project **without following its license terms** can lead to:
 - [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game)
 - [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI)
 - [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection)
-  
+-[TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE.git)
+
 ---
 
 ### Project Synopsis:
