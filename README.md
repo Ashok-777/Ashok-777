@@ -66,6 +66,7 @@ Using someone’s project **without following its license terms** can lead to:
 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
+| [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
 
 ---
 
