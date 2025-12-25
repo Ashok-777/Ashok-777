@@ -54,19 +54,20 @@ Using someone’s project **without following its license terms** can lead to:
 
 ## 🚀 Projects & Synopsis
 
-| Project | Synopsis |
-|---------|---------|
-| [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
-| [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior. |
-| [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
-| [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
-| [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
-| [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
-| [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
-| [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
-| [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
-| [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
-| [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
+| ## | Project | Synopsis |
+|----|---------|---------|
+| 1 | [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
+| 2 | [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior. |
+| 3 | [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
+| 4 | [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
+| 5 | [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
+| 6 | [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
+| 7 | [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
+| 8 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
+| 9 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
+| 10 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
+| 11 | [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
+
 
 ---
 
