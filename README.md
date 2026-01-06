@@ -107,6 +107,6 @@ I’d love to connect, collaborate, and grow together!
 
 ---
 
-<p align="center">© 2025 Ashok-777 | Crafted with ❤️ and curiosity</p>
+<p align="center">© 2026 Ashok-777 | Crafted with ❤️ and curiosity</p>
 
 ---
