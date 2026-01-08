@@ -52,23 +52,24 @@ Using someone’s project **without following its license terms** can lead to:
 
 ---
 
-## 🚀 Projects & Synopsis
+## 🚀 Projects & Synopsis (A–Z Order)
 
 | ## | Project | Synopsis |
 |----|---------|---------|
-| 1 | [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
-| 2 | [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior. |
-| 3 | [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
-| 4 | [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
-| 5 | [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
-| 6 | [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
-| 7 | [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
-| 8 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
-| 9 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
-| 10 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
-| 11 | [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
-| 12 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | A visually stunning, full-stack implementation of the classic Tower of Hanoi puzzle. |
-| 13 | [🌟 Background Remover](https://github.com/Ashok-777/Background-remover) | Remove backgrounds from images instantly with a clean, user-friendly interface. |
+| 1 | [🌟 Background Remover](https://github.com/Ashok-777/Background-remover) | Remove backgrounds from images instantly with a clean, user-friendly interface. |
+| 2 | [⚖️ BMI Health Balance](https://github.com/Ashok-777/BMI-Health-Balance.git) | A health-focused tool to calculate BMI and provide insights into body health balance. |
+| 3 | [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
+| 4 | [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
+| 5 | [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior using Python. |
+| 6 | [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
+| 7 | [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
+| 8 | [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
+| 9 | [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
+| 10 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
+| 11 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
+| 12 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
+| 13 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | A visually stunning, full-stack implementation of the classic Tower of Hanoi puzzle. |
+| 14 | [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
 
 ---
 
