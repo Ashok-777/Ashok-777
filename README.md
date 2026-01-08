@@ -67,6 +67,7 @@ Using someone’s project **without following its license terms** can lead to:
 | 9 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
 | 10 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
 | 11 | [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
+| 12 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | A visually stunning, full-stack implementation of the classic Tower of Hanoi puzzle. |
 
 
 ---
