@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50" />
-  <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="40px">
-</p>
-
 I’m **Ashok S**,an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
 
 My curiosity spans **hardware, software, design, electronics, and science**, and I love creating **innovative solutions to real-world problems** through projects that blend creativity and technology.  
