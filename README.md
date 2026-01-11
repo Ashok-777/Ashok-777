@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> **Hello, World!**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"><h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+Profile" alt="Typing SVG" />
+</h1>
 
 ---
 
