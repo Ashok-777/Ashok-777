@@ -1,8 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px" style="vertical-align: middle;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=500&lines=Hello,+World!;Welcome+to+my+GitHub" alt="Typing SVG" style="vertical-align: middle;" />
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=F7F7F7&center=false&vCenter=true&width=400&lines=Hello,+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </h1>
-
 
 ---
 
