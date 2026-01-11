@@ -2,15 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
 </h1>
 
-
 ---
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/84cd65c6-1a94-48b3-972e-090e68c1e613" />
 
 ---
 
-# I’m **Ashok S**,
-an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
+# I’m **Ashok S**,an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
 
 My curiosity spans **hardware, software, design, electronics, and science**, and I love creating **innovative solutions to real-world problems** through projects that blend creativity and technology.  
 
