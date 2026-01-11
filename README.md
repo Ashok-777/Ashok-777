@@ -9,7 +9,8 @@
 
 ---
 
-I’m **Ashok S**, an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
+# I’m **Ashok S**,
+an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
 
 My curiosity spans **hardware, software, design, electronics, and science**, and I love creating **innovative solutions to real-world problems** through projects that blend creativity and technology.  
 
