@@ -5,13 +5,11 @@
   </picture>
 </h1>
 
----
 
 <p align="center">
   <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/84cd65c6-1a94-48b3-972e-090e68c1e613" />
 </p>
 
----
 
 <h1 align="center">
   <picture>
