@@ -1,19 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello,+World!;Welcome+to+my+GitHub" alt="Typing SVG" />
+  </picture>
 </h1>
 
 ---
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/84cd65c6-1a94-48b3-972e-090e68c1e613" />
+<p align="center">
+  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/84cd65c6-1a94-48b3-972e-090e68c1e613" />
+</p>
 
 ---
 
 <h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+Ashok+S" alt="Typing SVG" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=I'm+Ashok+S">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=I'm+Ashok+S" alt="Typing SVG" />
+  </picture>
 </h1>
 
+---
 
 I'm **Ashok S**,an enthusiastic **Artificial Intelligence and Data Science student** passionate about exploring **AI, Machine Learning, Cloud Computing, and emerging technologies**.  
 
