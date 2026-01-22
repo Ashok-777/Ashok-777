@@ -72,22 +72,27 @@ Using someone’s project **without following its license terms** can lead to:
 
 ## 🚀 Projects & Synopsis (A–Z Order)
 
-| ## | Project | Synopsis |
-|----|---------|---------|
-| 1 | [🌟 Background Remover](https://github.com/Ashok-777/Background-remover) | Remove backgrounds from images instantly with a clean, user-friendly interface. |
-| 2 | [⚖️ BMI Health Balance](https://github.com/Ashok-777/BMI-Health-Balance.git) | A health-focused tool to calculate BMI and provide insights into body health balance. |
-| 3 | [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation for CAPTCHA verification. |
-| 4 | [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer behavior. |
-| 5 | [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Data-driven insights to predict customer behavior using Python. |
-| 6 | [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
-| 7 | [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Python tool for real-time network speed and ping monitoring with live visualizations. |
-| 8 | [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | User-friendly and secure password creation tool. |
-| 9 | [🎮 Shadow Bounce - Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and design. |
-| 10 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
-| 11 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Practical machine learning solution for real-world problems. |
-| 12 | [TIC-TAC-TOE](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game. |
-| 13 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | A visually stunning, full-stack implementation of the classic Tower of Hanoi puzzle. |
-| 14 | [🧮 Universal Base Convertor](https://github.com/Ashok-777/Universal-Base-Convertor) | Converts numbers across multiple bases with detailed explanations. |
+ A collection of projects showcasing my skills, learning, and hands-on experience across various technologies and domains.
+
+| # | Project | Synopsis |
+|---|--------|----------|
+| 1 | [🌟 Background Remover](https://github.com/Ashok-777/Background-remover) | Instantly remove image backgrounds with a clean, user-friendly interface. |
+| 2 | [⚖️ BMI Health Balance](https://github.com/Ashok-777/BMI-Health-Balance.git) | Health-focused tool to calculate BMI and analyze body health balance. |
+| 3 | [🧾 Calculator](https://github.com/Ashok-777/Calculator.git) | Simple and efficient calculator application. |
+| 4 | [🧩 CAPTCHA Verify](https://github.com/Ashok-777/CAPTCHA-Verify) | Creative automation solution for CAPTCHA verification. |
+| 5 | [📊 Customer Expense Churn](https://github.com/Ashok-777/CustomerExpenseChurn) | Data-driven insights to predict customer churn behavior. |
+| 6 | [💸 Customer Expense Churn (Python)](https://github.com/Ashok-777/CustomerExpenseChurn-py) | Python-based churn prediction using data analytics. |
+| 7 | [📈 Demand Forecasting in Retail](https://github.com/Ashok-777/Demand-Forecasting-in-Retail) | Time-series forecasting for smarter retail decisions. |
+| 8 | [🏳️ Guess the Country Flag](https://github.com/Ashok-777/Guess-the-Country-Flag-.git) | Fun educational game to identify country flags. |
+| 9 | [📚 Library Management System](https://github.com/Ashok-777/Library-Management-System.git) | System for managing books, users, and transactions efficiently. |
+|10 | [🌐 Network Performance Monitor](https://github.com/Ashok-777/Network-Performance-Monitor) | Real-time network speed & ping monitoring with live visualizations. |
+|11 | [🔐 Password Generator](https://github.com/Ashok-777/PasswordGenerator) | Secure and user-friendly password generation tool. |
+|12 | [🎮 Shadow Bounce – Multi World](https://github.com/Ashok-777/ShadowBounce-Game) | Multi-level game showcasing creativity and game design. |
+|13 | [🤖 SmartVizAI](https://github.com/Ashok-777/SmartVizAI) | AI-powered visualization tool for actionable insights. |
+|14 | [✉️ SMS Spam Detection](https://github.com/Ashok-777/SMS-SpamDetection) | Machine learning solution for detecting spam messages. |
+|15 | [🎯 Tic Tac Toe](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game implementation. |
+|16 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | Visually rich, full-stack implementation of the Tower of Hanoi puzzle. |
+|17 | [🧮 Universal Base Converter](https://github.com/Ashok-777/Universal-Base-Convertor) | Convert numbers across multiple bases with detailed explanations. |
 
 ---
 
