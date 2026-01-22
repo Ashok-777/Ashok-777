@@ -93,6 +93,7 @@ Using someone’s project **without following its license terms** can lead to:
 |15 | [🎯 Tic Tac Toe](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game implementation. |
 |16 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | Visually rich, full-stack implementation of the Tower of Hanoi puzzle. |
 |17 | [🧮 Universal Base Converter](https://github.com/Ashok-777/Universal-Base-Convertor) | Convert numbers across multiple bases with detailed explanations. |
+|18 | [🕒 World Clock](https://github.com/Ashok-777/World-Clock.git) | Displays current time across multiple countries and time zones. |
 
 ---
 
