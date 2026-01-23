@@ -133,6 +133,8 @@ I’d love to connect, collaborate, and grow together!
 
 ---
 
-<p align="center">© 2026 Ashok-777 | Crafted with ❤️ and curiosity</p>
+<p align="center">
+  © 2026 <a href="https://github.com/Ashok-777" target="_blank">Ashok-777</a> | Crafted with ❤️ and curiosity
+</p>
 
 ---
