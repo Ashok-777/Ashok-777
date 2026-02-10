@@ -90,7 +90,7 @@ Licenses are essential in open-source projects because they define how others ma
 |16 | [🎯 Tic Tac Toe](https://github.com/Ashok-777/TIC-TAC-TOE) | Classic Tic Tac Toe game implementation. |
 |17 | [🗼 Tower of Hanoi: The Journey](https://github.com/Ashok-777/Tower-of-Hanoi.git) | Visually rich, full-stack implementation of the Tower of Hanoi puzzle. |
 |18 | [🧮 Universal Base Converter](https://github.com/Ashok-777/Universal-Base-Convertor) | Convert numbers across multiple bases with detailed explanations. |
-|19 | [📝 What's Next – Todo App](https://github.com/Ashok-777/What-s-Next.git) | Simple and intuitive todo list app to organize daily tasks. |
+|19 | [📝 What's Next](https://github.com/Ashok-777/What-s-Next.git) | Simple and intuitive todo list app to organize daily tasks. |
 |20 | [🕒 World Clock](https://github.com/Ashok-777/World-Clock.git) | Displays current time across multiple countries and time zones. |
 
 ---
