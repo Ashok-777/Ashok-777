@@ -70,8 +70,6 @@ Licenses are essential in open-source projects because they define how others ma
 
  A collection of projects showcasing my skills, learning, and hands-on experience across various technologies and domains.
 
- # Project Synopsis (A–Z Order)
-
 | # | Project | Synopsis |
 |---|---------|----------|
 | 1 | 🌐 [Ashok's Professional Portfolio](https://ashok-portfolio-one.vercel.app/) | Explore my professional portfolio showcasing my projects, skills, and experience. |
