@@ -123,7 +123,7 @@ If you find any of these projects helpful or inspiring, you can show support by:
 
 ### 🤝 Let’s Connect
 I’d love to connect, collaborate, and grow together!  
-📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | [LeetCode](https://leetcode.com/ASHOK_777/)
+📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/ashok-s-844a46387) | [GitHub](https://github.com/Ashok-777) | [LeetCode](https://leetcode.com/ASHOK_777/) | [Wokwi](https://wokwi.com/makers/ashok_777)
 
 ---
 
